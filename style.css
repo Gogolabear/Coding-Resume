@@ -1,0 +1,9 @@
+
+h2 {color: darkgreen;}
+h2 {font-size: larger;}
+h1 {font-weight: normal;}
+h1 {text-align: center;}
+h2 {font-weight: bolder;}
+*{shape-outside: border-box;border-color: black;border-width: medium;}
+p {font-size: large;}
+hr {border-style: dashed;}
